@@ -75,7 +75,8 @@ html, body {
 }
 
 .navbar {
-    background-color: rgba(0, 48, 143, 0.8);
+    /*background-color: rgba(0, 48, 143, 0.8);*/
+    background-color: rgb(39 90 193 / 80%);
     border-radius: 72px;
     height: 80px;
     width: 100%;
